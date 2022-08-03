@@ -1,2 +1,4 @@
 # Thisthing
-First thing i guess idk
+I will delete this repo later
+
+## Okay bye
